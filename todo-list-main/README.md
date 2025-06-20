@@ -1,4 +1,4 @@
-\MyTasks is a dynamic and theme-switchable to-do list web app built with vanilla JavaScript and localStorage. It features modular class-based architecture with task formatting, real-time UI updates, status filters, and motivational celebrations when you complete a task.
+MissionBoard s is a dynamic and theme-switchable to-do list web app built with vanilla JavaScript and localStorage. It features modular class-based architecture with task formatting, real-time UI updates, status filters, and motivational celebrations when you complete a task.
 
 🧠 Features
 - ✍️ Add, edit, delete, and filter to-do items
