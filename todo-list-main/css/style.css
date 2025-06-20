@@ -9,8 +9,7 @@
 }
 
 :root {
-    --color-primary: #5a78ff;
-    --color-secondary: #0957ff;
+    background: linear-gradient(to right, #a1c4fd, #c2e9fb);
 }
 
 body{
